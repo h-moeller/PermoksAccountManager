@@ -304,7 +304,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     kej = {
-        label = 'Kej',
+        label = L['Kej'],
         type = 'currency',
         warband = true,
         key = 3056,
@@ -322,7 +322,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     undercoin = {
-        label = 'Undercoin',
+        label = L['Undercoin'],
         type = 'currency',
         warband = true,
         key = 2803,
@@ -350,14 +350,14 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE,
     },
     empty_kajacola_can = {
-        label = 'Empy Kaja\'Cola',
+        label = L['Empy Kaja\'Cola'],
         type = 'currency',
         key = 3218,
         group = 'currency',
         version = WOW_PROJECT_MAINLINE,
     },
     vintage_kajacola_can = {
-        label = 'Vintage Kaja\'Cola',
+        label = L['Vintage Kaja\'Cola'],
         type = 'currency',
         key = 3220,
         group = 'currency',

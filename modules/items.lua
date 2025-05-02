@@ -117,7 +117,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     primevalEssence = {
-        label = 'Primeval Essence',
+        label = L['Primeval Essence'],
         type = 'item',
         key = 199211,
         group = 'currency',
@@ -126,21 +126,21 @@ local labelRows = {
 
     -- 10.0 Dragonflight
     vaultKey = {
-        label = 'Zskera Vault Key',
+        label = L['Zskera Vault Key'],
         type = 'item',
         key = 202196,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     artisans_mettle = {
-        label = "Artisan's Mettle",
+        label = L["Artisan's Mettle"],
         type = 'item',
         key = 190456,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     spark_ingenuity = {
-        label = 'Spark - Ingenuity',
+        label = L['Spark - Ingenuity'],
         type = 'spark',
         passRow = true,
         key = 190453,
@@ -150,7 +150,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     spark_shadowflame = {
-        label = 'Spark - Shadowflame',
+        label = L['Spark - Shadowflame'],
         type = 'spark',
         passRow = true,
         key = 204440,
@@ -160,28 +160,28 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     unearthed_fragrant_coin = {
-        label = "Unearthed Coin",
+        label = L["Unearthed Coin"],
         type = 'item',
         key = 204715,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     barter_brick = {
-        label = "Barter Brick",
+        label = L["Barter Brick"],
         type = 'item',
         key = 204985,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     obsidian_flightstone = {
-        label = "Obsidian Flightstone",
+        label = L["Obsidian Flightstone"],
         type = 'item',
         key = 202171,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     dilated_time_capsule = {
-        label = "Time Capsule",
+        label = L["Time Capsule"],
         type = 'item',
         key = 207030,
         group = 'item',
@@ -190,14 +190,14 @@ local labelRows = {
 
     -- 10.1.7
     dreamsurge_coalescence = {
-        label = 'Dream Coalescence',
+        label = L['Dream Coalescence'],
         type = 'item',
         key = 207026,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     dreamsurge_chrysalis = {
-        label = 'Dream Chrysalis',
+        label = L['Dream Chrysalis'],
         type = 'item',
         key = 208153,
         group = 'item',
@@ -206,7 +206,7 @@ local labelRows = {
 
     -- 10.2
     spark_dreams = {
-        label = 'Spark - Dreams',
+        label = L['Spark - Dreams'],
         type = 'spark',
         passRow = true,
         key = 206959,
@@ -216,7 +216,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     dreamseeds = {
-        label = 'Dreamseeds',
+        label = L['Dreamseeds'],
         type = 'dreamseeds',
         passRow = true,
         seed1 = 208066,
@@ -226,14 +226,14 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     dilated_time_pod = {
-        label = "Time Pod",
+        label = L["Time Pod"],
         type = 'item',
         key = 209856,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     dreamsurge_cocoon = {
-        label = 'Dream Cocoon',
+        label = L['Dream Cocoon'],
         type = 'item',
         key = 210254,
         group = 'item',
@@ -242,7 +242,7 @@ local labelRows = {
 
     -- 10.2.6
     spark_awakening = {
-        label = 'Spark - Awakening',
+        label = L['Spark - Awakening'],
         type = 'spark',
         passRow = true,
         key = 211516,
@@ -254,7 +254,7 @@ local labelRows = {
 
     -- 11.0 The War Within
     spark_omens = {
-        label = 'Spark - Omens',
+        label = L['Spark - Omens'],
         type = 'spark',
         passRow = true,
         key = 211296,
@@ -264,7 +264,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     artisans_acuity = {
-        label = "Artisan's Acuity",
+        label = L["Artisan's Acuity"],
         type = 'item',
         key = 210814,
         group = 'item',
@@ -287,7 +287,7 @@ local labelRows = {
 
     -- REFACTOR: technically 50Glob of Wax = 1x Firelight Ruby so this could be merged. Using spark function for this, could generalize the concept
     firelight_ruby = {
-        label = 'Firelight Ruby',
+        label = L['Firelight Ruby'],
         type = 'spark',
         passRow = true,
         key = 224642,
@@ -297,7 +297,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     coffer_key_shard = {
-        label = 'Coffer Key Shard',
+        label = L['Coffer Key Shard'],
         type = 'item',
         key = 229899,
         group = 'item',
