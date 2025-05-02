@@ -271,14 +271,14 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     radiant_remnant = {
-        label = 'Radiant Remnant',
+        label = L['Radiant Remnant'],
         type = 'item',
         key = 206350,
         group = 'item',
         version = WOW_PROJECT_MAINLINE
     },
     radiant_echo = {
-        label = 'Radiant Echo',
+        label = L['Radiant Echo'],
         type = 'item',
         key = 235897,
         group = 'item',
@@ -314,7 +314,7 @@ local labelRows = {
 
     -- 11.1
     spark_current = {
-        label = 'Spark - Fortunes',
+        label = L['Spark - Fortunes'],
         type = 'spark',
         passRow = true,
         key = 230906,

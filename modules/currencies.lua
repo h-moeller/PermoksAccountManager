@@ -256,7 +256,7 @@ local labelRows = {
 
     -- 11.0
     veteran_crest = {
-        label = 'Weathered Crests',
+        label = L['Weathered Crest'],
         type = 'crestcurrency',
         key = 3107,
         passRow = true,
@@ -264,7 +264,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     normal_crest = {
-        label = 'Carved Crests',
+        label = L['Carved Crest'],
         type = 'crestcurrency',
         key = 3108,
         passRow = true,
@@ -272,7 +272,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     hero_crest = {
-        label = 'Runed Crests',
+        label = L['Runed Crest'],
         type = 'crestcurrency',
         key = 3109,
         passRow = true,
@@ -280,7 +280,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     myth_crest = {
-        label = 'Gilded Crests',
+        label = L['Gilded Crest'],
         type = 'crestcurrency',
         key = 3110,
         passRow = true,
@@ -288,7 +288,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     valorstones = {
-        label = 'Valorstones',
+        label = L['Valorstones'],
         type = 'currency',
         key = 3008,
         abbMax = true,
@@ -296,7 +296,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     resonance_crystals = {
-        label = 'Resonance Crystals',
+        label = L['Resonance Crystals'],
         type = 'currency',
         warband = true,
         key = 2815,
@@ -312,7 +312,7 @@ local labelRows = {
         version = WOW_PROJECT_MAINLINE
     },
     restored_coffer_key = {
-        label = 'Restored Coffer Key',
+        label = L['Restored Coffer Key'],
         type = 'cofferkey',
         passRow = true,
         key = 3028,
@@ -342,7 +342,7 @@ local labelRows = {
 
     -- 11.1
     spark_drops = {
-        label = 'Spark Cap',
+        label = L['Spark Cap'],
         type = 'currency',
         key = 3132,
         group = 'currency',
