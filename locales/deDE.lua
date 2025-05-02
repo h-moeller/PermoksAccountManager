@@ -123,9 +123,23 @@ L['Cosmic HP Pots'] = 'Kosmische HP Pots'
 L['TW Keystone'] = 'TW Schlüsselstein'
 L['Killed'] = true
 L['Unknown'] = 'Unbekannt'
-L['Catalyst Charges'] = true
+L['Catalyst Charges'] = 'Catalyst Aufladungen'
 L['Fly near the Creation Catalyst.'] = true
 
+--------------------------
+-- 	     Custom     	--
+--------------------------
+L['Valorstones'] = 'Tapferkeitssteine'
+L['Resonance Crystals'] = 'Resonanzkristalle'
+L['Weathered Crest'] = 'Verwitterte Wappen'
+L['Carved Crest'] = 'Geschnitzte Wappen'
+L['Runed Crest'] = 'Runenverzierte Wappen'
+L['Gilded Crest'] = 'Vergoldete Wappen'
+L['Spark Cap'] = 'Funken max.'
+L['Spark - Fortunes'] = 'Funken des Glücks'
+L['Restored Coffer Key'] = 'Restaurierte Kastenschlüssel'
+L['Radiant Remnant'] = 'Strahlendes Überbleibsel'
+L['Radiant Echo'] = 'Strahlendes Echo'
 --------------------------
 -- 		Options 		--
 --------------------------

@@ -127,6 +127,20 @@ L['Catalyst Charges'] = true
 L['Fly near the Creation Catalyst.'] = true
 
 --------------------------
+--      Custom          --
+--------------------------
+L['Valorstones'] = true
+L['Resonance Crystals'] = true
+L['Weathered Crest'] = true
+L['Carved Crest'] = true
+L['Runed Crest'] = true
+L['Gilded Crest'] = true
+L['Spark Cap'] = true
+L['Spark - Fortunes'] = true
+L['Restored Coffer Key'] = true
+L['Radiant Remnant'] = true
+L['Radiant Echo'] = true
+--------------------------
 -- 		Options 		--
 --------------------------
 L['Rename'] = true
